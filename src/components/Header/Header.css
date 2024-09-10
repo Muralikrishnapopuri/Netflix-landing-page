@@ -1,0 +1,39 @@
+#btn-1{
+    background-color: #E50914;
+    border: none;
+    border-radius: 0.3rem;
+    padding-left: 2.8rem;
+    padding-right: 2.8rem;
+    padding-top: 0.7rem;
+    padding-bottom: 0.7rem;
+    color: white;
+    font-size: 1.2rem;
+    font-weight: bold;
+
+}
+header{
+    position: fixed;
+    width: 100%;
+    background-color: black;
+}
+#btn-2{
+
+    font-size: 1.2rem;
+    font-weight: bold;
+
+
+    border:0.5px solid white;
+    border-radius: 0.3rem;
+    padding-left: 2.8rem;
+    padding-right: 2.8rem;
+    padding-top: 0.7rem;
+    padding-bottom: 0.7rem;
+    background-color: black;
+    color: white;
+}
+.nav-items{
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    align-items: center;
+}

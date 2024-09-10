@@ -1,0 +1,31 @@
+.Home{
+    background-color: rgb(28, 28, 28);
+    padding-left: 3rem;
+}
+.Home h1{
+    font-size: 4rem;
+    font-weight: bolder;
+    margin-bottom:2rem ;
+}
+.movies{
+    /* margin: 3rem */
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+
+    font-size:1.2rem ;
+    font-weight: 600;
+}
+.data-list h4{
+    display: flex;
+    justify-content: center;
+    /* flex-direction: row; */
+    
+}
+.movies-list{
+    overflow-x: scroll;
+    /* overflow: hidden; */
+}
+::-webkit-scrollbar {
+    display: none;
+}
+
